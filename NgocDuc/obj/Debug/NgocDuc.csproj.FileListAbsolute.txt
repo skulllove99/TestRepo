@@ -1,0 +1,15 @@
+D:\U\TestRepo\NgocDuc\bin\Debug\NgocDuc.exe.config
+D:\U\TestRepo\NgocDuc\bin\Debug\NgocDuc.exe
+D:\U\TestRepo\NgocDuc\bin\Debug\NgocDuc.pdb
+D:\U\TestRepo\NgocDuc\obj\Debug\NgocDuc.csproj.AssemblyReference.cache
+D:\U\TestRepo\NgocDuc\obj\Debug\MainWindow.g.cs
+D:\U\TestRepo\NgocDuc\obj\Debug\App.g.cs
+D:\U\TestRepo\NgocDuc\obj\Debug\NgocDuc_MarkupCompile.cache
+D:\U\TestRepo\NgocDuc\obj\Debug\NgocDuc_MarkupCompile.lref
+D:\U\TestRepo\NgocDuc\obj\Debug\MainWindow.baml
+D:\U\TestRepo\NgocDuc\obj\Debug\NgocDuc.g.resources
+D:\U\TestRepo\NgocDuc\obj\Debug\NgocDuc.Properties.Resources.resources
+D:\U\TestRepo\NgocDuc\obj\Debug\NgocDuc.csproj.GenerateResource.cache
+D:\U\TestRepo\NgocDuc\obj\Debug\NgocDuc.csproj.CoreCompileInputs.cache
+D:\U\TestRepo\NgocDuc\obj\Debug\NgocDuc.exe
+D:\U\TestRepo\NgocDuc\obj\Debug\NgocDuc.pdb
